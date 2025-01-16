@@ -1,0 +1,128 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "HiddenFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "HiddenManager",
+        "printedName": "HiddenManager",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "HiddenManager",
+                "printedName": "HiddenFramework.HiddenManager",
+                "usr": "s:15HiddenFramework0A7ManagerC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15HiddenFramework0A7ManagerC6sharedACvpZ",
+            "mangledName": "$s15HiddenFramework0A7ManagerC6sharedACvpZ",
+            "moduleName": "HiddenFramework",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "HiddenManager",
+                    "printedName": "HiddenFramework.HiddenManager",
+                    "usr": "s:15HiddenFramework0A7ManagerC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15HiddenFramework0A7ManagerC6sharedACvgZ",
+                "mangledName": "$s15HiddenFramework0A7ManagerC6sharedACvgZ",
+                "moduleName": "HiddenFramework",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "testing",
+            "printedName": "testing()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15HiddenFramework0A7ManagerC7testingyyF",
+            "mangledName": "$s15HiddenFramework0A7ManagerC7testingyyF",
+            "moduleName": "HiddenFramework",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "HiddenManager",
+                "printedName": "HiddenFramework.HiddenManager",
+                "usr": "s:15HiddenFramework0A7ManagerC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15HiddenFramework0A7ManagerCACycfc",
+            "mangledName": "$s15HiddenFramework0A7ManagerCACycfc",
+            "moduleName": "HiddenFramework",
+            "implicit": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:15HiddenFramework0A7ManagerC",
+        "mangledName": "$s15HiddenFramework0A7ManagerC",
+        "moduleName": "HiddenFramework",
+        "declAttributes": [
+          "AccessControl",
+          "Final"
+        ],
+        "hasMissingDesignatedInitializers": true
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}
