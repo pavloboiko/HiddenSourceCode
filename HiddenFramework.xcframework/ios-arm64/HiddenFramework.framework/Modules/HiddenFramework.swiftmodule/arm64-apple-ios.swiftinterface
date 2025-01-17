@@ -1,0 +1,18 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
+// swift-module-flags: -target arm64-apple-ios16.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -enable-bare-slash-regex -module-name HiddenFramework
+import DGCharts
+import Foundation
+import Hidden2Framework
+@_exported import HiddenFramework
+import SnapKit
+import Swift
+import YouTubeiOSPlayerHelper
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+@_hasMissingDesignatedInitializers final public class HiddenManager {
+  public static let shared: HiddenFramework.HiddenManager
+  final public func testing()
+  @objc deinit
+}
