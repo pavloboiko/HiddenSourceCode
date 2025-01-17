@@ -4,102 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/HiddenFramework.h</key>
-		<data>
-		QUZoL47sXHuqP2LN6/z6V9CVtDk=
-		</data>
 		<key>Info.plist</key>
 		<data>
-		Dh6rzeCKfFDO+IwryTE6Ff9yTwM=
-		</data>
-		<key>Modules/HiddenFramework.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
-		<data>
-		9qTJhMMBM5F3uaKsayOQUntt8k8=
-		</data>
-		<key>Modules/HiddenFramework.swiftmodule/arm64-apple-ios.abi.json</key>
-		<data>
-		3C9nIRpgLQiRMrCf1+c4TY/LjRw=
-		</data>
-		<key>Modules/HiddenFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
-		<data>
-		4TpZAqgJcyY/Hac+LvO5R42amKc=
-		</data>
-		<key>Modules/HiddenFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
-		<data>
-		CmICN+kzbGqjg5W1QjUIlS83wuk=
-		</data>
-		<key>Modules/HiddenFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
-		<data>
-		4TpZAqgJcyY/Hac+LvO5R42amKc=
-		</data>
-		<key>Modules/HiddenFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
-		<data>
-		xkrRFqCBTZUtRiCMcyZ5ZwsAIBg=
-		</data>
-		<key>Modules/module.modulemap</key>
-		<data>
-		+sKSvuoy5g8xbql8ydsdFB29DYo=
+		ftCg7DSn0DeCPW2dp9exzyiK4Ng=
 		</data>
 	</dict>
 	<key>files2</key>
-	<dict>
-		<key>Headers/HiddenFramework.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			s5YZbSl5W3NFTjN5enRs2N0+VJ62IZn2tIT4xlXBwQU=
-			</data>
-		</dict>
-		<key>Modules/HiddenFramework.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Wu/07Kq47HrbAr3FSeXy3Nm3nLYHI+kaj2EOjazb8F8=
-			</data>
-		</dict>
-		<key>Modules/HiddenFramework.swiftmodule/arm64-apple-ios.abi.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WFbKT5JiWCrOJrHa3uH/iQ4brF5Z0+kCsNa9FeikAtI=
-			</data>
-		</dict>
-		<key>Modules/HiddenFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			EOE2DT1QxMC6OmdeH58hHGk4kJaV3smA4lpsNMgnE1M=
-			</data>
-		</dict>
-		<key>Modules/HiddenFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kdK5TJo5dhRqljcoSXhT9u6GcmplAIvgou9gRMospWg=
-			</data>
-		</dict>
-		<key>Modules/HiddenFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			EOE2DT1QxMC6OmdeH58hHGk4kJaV3smA4lpsNMgnE1M=
-			</data>
-		</dict>
-		<key>Modules/HiddenFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			L1tWC4IzxD8EC0iRg6F5Xig7VM3jZXM2nkpOhDR7+n8=
-			</data>
-		</dict>
-		<key>Modules/module.modulemap</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			P0WLe+P21U3nZsAatL+zUlRnFIQdm9n/Tl7XRKVVd1U=
-			</data>
-		</dict>
-	</dict>
+	<dict/>
 	<key>rules</key>
 	<dict>
 		<key>^.*</key>
