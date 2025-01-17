@@ -1,0 +1,128 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Hidden2Framework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Hidden2Manager",
+        "printedName": "Hidden2Manager",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Hidden2Manager",
+                "printedName": "Hidden2Framework.Hidden2Manager",
+                "usr": "s:16Hidden2Framework0A7ManagerC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:16Hidden2Framework0A7ManagerC6sharedACvpZ",
+            "mangledName": "$s16Hidden2Framework0A7ManagerC6sharedACvpZ",
+            "moduleName": "Hidden2Framework",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Hidden2Manager",
+                    "printedName": "Hidden2Framework.Hidden2Manager",
+                    "usr": "s:16Hidden2Framework0A7ManagerC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16Hidden2Framework0A7ManagerC6sharedACvgZ",
+                "mangledName": "$s16Hidden2Framework0A7ManagerC6sharedACvgZ",
+                "moduleName": "Hidden2Framework",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "testing",
+            "printedName": "testing()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16Hidden2Framework0A7ManagerC7testingyyF",
+            "mangledName": "$s16Hidden2Framework0A7ManagerC7testingyyF",
+            "moduleName": "Hidden2Framework",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Hidden2Manager",
+                "printedName": "Hidden2Framework.Hidden2Manager",
+                "usr": "s:16Hidden2Framework0A7ManagerC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:16Hidden2Framework0A7ManagerCACycfc",
+            "mangledName": "$s16Hidden2Framework0A7ManagerCACycfc",
+            "moduleName": "Hidden2Framework",
+            "implicit": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:16Hidden2Framework0A7ManagerC",
+        "mangledName": "$s16Hidden2Framework0A7ManagerC",
+        "moduleName": "Hidden2Framework",
+        "declAttributes": [
+          "AccessControl",
+          "Final"
+        ],
+        "hasMissingDesignatedInitializers": true
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}

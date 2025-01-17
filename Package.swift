@@ -11,7 +11,7 @@ let package = Package(
     products: [
         .library(
             name: "SpringchatCore",
-            targets: ["SpringchatCore"]
+            targets: ["HiddenFramework"]
         ),
     ],
     dependencies: [
@@ -19,11 +19,23 @@ let package = Package(
             url: "https://github.com/ChartsOrg/Charts",
             .upToNextMajor(from: "5.1.0")
         ),
+        .package(
+            url: "https://github.com/SnapKit/SnapKit",
+            .upToNextMajor(from: "5.0.1")
+        ),
+        .package(
+            url: "https://github.com/youtube/youtube-ios-player-helper",
+            .upToNextMajor(from: "1.0.4")
+        ),
     ],
     targets: [
         .binaryTarget(
-            name: "SpringchatCore",
+            name: "HiddenFramework",
             path: "./HiddenFramework.xcframework"
+        ),
+        .binaryTarget(
+            name: "Hidden2Framework",
+            path: "./Hidden2Framework.xcframework"
         )
     ]
 )
