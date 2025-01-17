@@ -14,6 +14,12 @@ let package = Package(
             targets: ["SpringchatCore"]
         ),
     ],
+    dependencies: [
+        .package(
+            url: "https://github.com/ChartsOrg/Charts",
+            .upToNextMajor(from: "5.1.0")
+        ),
+    ],
     targets: [
         .binaryTarget(
             name: "SpringchatCore",
