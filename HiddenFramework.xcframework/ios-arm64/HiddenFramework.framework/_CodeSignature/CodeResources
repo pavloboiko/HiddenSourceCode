@@ -4,6 +4,30 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Frameworks/DGChartsDynamic.framework/DGChartsDynamic</key>
+		<data>
+		3dnJ2dl+j3llCzmyyg3D0IPgyIQ=
+		</data>
+		<key>Frameworks/DGChartsDynamic.framework/Info.plist</key>
+		<data>
+		4dzY99OnBH7jzavvMI99OTyaUSw=
+		</data>
+		<key>Frameworks/DGChartsDynamic.framework/_CodeSignature/CodeResources</key>
+		<data>
+		Wm0YQKs62saUY2AlYN/X3g6ICFo=
+		</data>
+		<key>Frameworks/SnapKit-Dynamic.framework/Info.plist</key>
+		<data>
+		k6J3RA9px1pMdkLZX9yU8BClcyM=
+		</data>
+		<key>Frameworks/SnapKit-Dynamic.framework/SnapKit-Dynamic</key>
+		<data>
+		HihABwKv5i/Yyis8Qwl0iN90Q9A=
+		</data>
+		<key>Frameworks/SnapKit-Dynamic.framework/_CodeSignature/CodeResources</key>
+		<data>
+		tacPql+tFZqrXJe40FdDsurkT9E=
+		</data>
 		<key>Headers/HiddenFramework.h</key>
 		<data>
 		QUZoL47sXHuqP2LN6/z6V9CVtDk=
@@ -43,6 +67,48 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/DGChartsDynamic.framework/DGChartsDynamic</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BNNjME0QwVY3iWj+auQ0/5hrSiv4cBFVuW0MAPwe6dQ=
+			</data>
+		</dict>
+		<key>Frameworks/DGChartsDynamic.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gEM4eOLmtRPZvk9RHOM4rRhjDYjiQukTDRttRn7j3Vs=
+			</data>
+		</dict>
+		<key>Frameworks/DGChartsDynamic.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tBLB5Gc7PpN6sABBCRLoBrcjNgO5f+1mMG1VeWELYOA=
+			</data>
+		</dict>
+		<key>Frameworks/SnapKit-Dynamic.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hoQP38EXSsC5VzY5y6soAVhGyu0yIUT/Vd8qds7wHRA=
+			</data>
+		</dict>
+		<key>Frameworks/SnapKit-Dynamic.framework/SnapKit-Dynamic</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rurENrqA3y3PDVhfD53bNhzB3aPIQ7Bd+bJSHaqVW3c=
+			</data>
+		</dict>
+		<key>Frameworks/SnapKit-Dynamic.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ni3TAVQQP4MpxgAzSFlmMwPmcd68nJPuropZeQqLuds=
+			</data>
+		</dict>
 		<key>Headers/HiddenFramework.h</key>
 		<dict>
 			<key>hash2</key>
