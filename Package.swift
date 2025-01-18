@@ -11,7 +11,7 @@ let package = Package(
     products: [
         .library(
             name: "SpringchatCore",
-            targets: ["SpringchatCoreFramework"]
+            targets: ["SpringchatCore"]
         ),
     ],
     dependencies: [
@@ -30,8 +30,8 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(
-            name: "SpringchatCoreFramework",
-            path: "./SpringchatCoreFramework.xcframework"
+            name: "SpringchatCore",
+            path: "./SpringchatCore.xcframework"
         )
     ]
 )
