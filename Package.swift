@@ -11,7 +11,7 @@ let package = Package(
     products: [
         .library(
             name: "SpringchatCore",
-            targets: ["HiddenFramework", "Hidden2Framework", "SpringchatCoreFramework"]
+            targets: ["SpringchatCoreFramework"]
         ),
     ],
     dependencies: [
@@ -29,14 +29,6 @@ let package = Package(
         ),
     ],
     targets: [
-        .binaryTarget(
-            name: "HiddenFramework",
-            path: "./HiddenFramework.xcframework"
-        ),
-        .binaryTarget(
-            name: "Hidden2Framework",
-            path: "./Hidden2Framework.xcframework"
-        ),
         .binaryTarget(
             name: "SpringchatCoreFramework",
             path: "./SpringchatCoreFramework.xcframework"
