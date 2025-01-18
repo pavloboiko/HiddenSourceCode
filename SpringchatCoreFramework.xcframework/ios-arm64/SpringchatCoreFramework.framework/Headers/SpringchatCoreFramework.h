@@ -2,7 +2,7 @@
 //  SpringchatCoreFramework.h
 //  SpringchatCoreFramework
 //
-//  Created by Pavlo Boiko on 1/17/25.
+//  Created by Pavlo Boiko on 1/18/25.
 //
 
 #import <Foundation/Foundation.h>

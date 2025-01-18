@@ -1,0 +1,113 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SpringchatCoreFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SpringchatCore",
+        "printedName": "SpringchatCore",
+        "declKind": "Import",
+        "moduleName": "SpringchatCoreFramework"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SpringchatCoreManager",
+        "printedName": "SpringchatCoreManager",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SpringchatCoreManager",
+                "printedName": "SpringchatCoreFramework.SpringchatCoreManager",
+                "usr": "s:23SpringchatCoreFramework0aB7ManagerC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:23SpringchatCoreFramework0aB7ManagerC6sharedACvpZ",
+            "mangledName": "$s23SpringchatCoreFramework0aB7ManagerC6sharedACvpZ",
+            "moduleName": "SpringchatCoreFramework",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SpringchatCoreManager",
+                    "printedName": "SpringchatCoreFramework.SpringchatCoreManager",
+                    "usr": "s:23SpringchatCoreFramework0aB7ManagerC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:23SpringchatCoreFramework0aB7ManagerC6sharedACvgZ",
+                "mangledName": "$s23SpringchatCoreFramework0aB7ManagerC6sharedACvgZ",
+                "moduleName": "SpringchatCoreFramework",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SpringchatCoreManager",
+                "printedName": "SpringchatCoreFramework.SpringchatCoreManager",
+                "usr": "s:23SpringchatCoreFramework0aB7ManagerC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:23SpringchatCoreFramework0aB7ManagerCACycfc",
+            "mangledName": "$s23SpringchatCoreFramework0aB7ManagerCACycfc",
+            "moduleName": "SpringchatCoreFramework",
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:23SpringchatCoreFramework0aB7ManagerC",
+        "mangledName": "$s23SpringchatCoreFramework0aB7ManagerC",
+        "moduleName": "SpringchatCoreFramework",
+        "declAttributes": [
+          "AccessControl",
+          "Final"
+        ],
+        "hasMissingDesignatedInitializers": true
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}
